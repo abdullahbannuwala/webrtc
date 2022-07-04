@@ -49,14 +49,30 @@ We need this to findout over public presence so we communcate this public presen
 ![image](https://user-images.githubusercontent.com/74914096/177140571-bca1fa9c-9929-4c99-8d4a-80e2c9dcbd41.png)
 ![image](https://user-images.githubusercontent.com/74914096/177140615-f3e973b8-8b04-41af-a1b6-d91eaa39f723.png)
 
-#STUN When it works
+# STUN When it works
 ![image](https://user-images.githubusercontent.com/74914096/177141188-310ca31f-7c60-4da0-84b8-0c801e4c7723.png)
 ![image](https://user-images.githubusercontent.com/74914096/177141766-08fd661d-1178-46be-bb5c-a889debc5c44.png)
 
-#STUN does't works
+# STUN does't works
 ![image](https://user-images.githubusercontent.com/74914096/177142866-24f23c5b-a829-4f1a-9271-841ea200591c.png)
 
+# TURN
+![image](https://user-images.githubusercontent.com/74914096/177143451-e00fe97e-4b02-4697-849b-61a005e064d6.png)
+![image](https://user-images.githubusercontent.com/74914096/177143986-5f28d36b-c38b-4881-a6a0-24a97486a07d.png)
 
+# ICE
+![image](https://user-images.githubusercontent.com/74914096/177144089-7cc01588-8c64-405a-ba11-6c35e2eee977.png)
+
+# SDP = Offer
+![image](https://user-images.githubusercontent.com/74914096/177146457-7b9eaa77-8ef4-43b9-ba66-a0f0509235e0.png)
+![image](https://user-images.githubusercontent.com/74914096/177146523-80acc664-b8a8-4908-a18b-f39388fae150.png)
+
+# Signaling 
+1. Can we done with tweeter, QR code , Whatsapp, Websockets, http request
+![image](https://user-images.githubusercontent.com/74914096/177146720-ef4358bf-ec43-4852-b09a-8b86bdde33f7.png)
+
+# WebRTC Demystified
+![image](https://user-images.githubusercontent.com/74914096/177168015-d593288c-ac10-450d-b20d-dda649001428.png)
 
 
 
