@@ -1,0 +1,23 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "1. Real Time Communication\r 2. Find a peer to peer path to exchange video, audio and messages in efficient and low latency manner.\r 3. Standardized API\r 4. Enable rich communication browsers, mobile and IOT devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahbannuwala/webrtc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullahbannuwala/webrtc/issues"
+  },
+  "homepage": "https://github.com/abdullahbannuwala/webrtc#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
