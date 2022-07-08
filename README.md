@@ -79,3 +79,8 @@ We need this to findout over public presence so we communcate this public presen
 
 
 SDP : Session Description Protocol
+
+
+## Scaling Websockets with Redis, HAProxy and Node JS - High-availability Group Chat Application
+![image](https://user-images.githubusercontent.com/74914096/177914031-7d0c7968-9fad-40a1-a503-456dd3623c6c.png)
+
